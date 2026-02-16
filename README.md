@@ -11,12 +11,12 @@ Culture. Business. Tech. Wellness. Drop the noise. We map the hidden connections
 
 DropThe maps the hidden connections behind movies, games, companies, people, crypto, and countries. Every entity page is backed by structured data, cross-linked through a knowledge graph, and scored using proprietary metrics.
 
-- **209,000+ movies** tracked with ratings, streaming availability, and Feelgood Scores
+- **250,000+ movies** tracked with ratings, streaming availability, and Feelgood Scores
 - **50,000+ games** with developer track records and historical ratings
-- **16,000+ crypto tokens** with lifecycle and recovery data
-- **19,000+ companies** with financials, acquisitions, and leadership data
-- **27,000+ universities** mapped to industry outcomes
-- **2,400+ places** with digital nomad and cost-of-living data
+- **15,000+ crypto tokens** with lifecycle and recovery data
+- **20,000+ companies** with financials, acquisitions, and leadership data
+- **30,000+ universities** mapped to industry outcomes
+- **2,500+ places** with digital nomad and cost-of-living data
 
 ## Data Insights
 
